@@ -1,0 +1,102 @@
+body {
+    background-color: aqua;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+    text-align: center;
+    margin: 0;
+    display: block;
+}
+
+form {
+    background-color: rgb(18, 16, 146);
+    padding: 20px;
+    margin: 0;
+    border-radius: 20px;
+    padding: 10px;
+
+
+}
+
+input {
+    border-radius: 20pc;
+    padding: 30px;
+    font-size: larger;
+    cursor: pointer;
+    background: rgb(209, 190, 190);
+    color: rgb(8, 8, 8);
+
+
+}
+
+button {
+    background: rgb(187, 17, 17);
+    padding: 10px;
+    text-align: center;
+    width: 60vh;
+    border-radius: 20pc;
+    text-decoration: double;
+    font-size: xx-large;
+    text-transform: uppercase;
+transform: rotateZ('360angle');
+
+
+    
+
+
+}
+
+div {
+    background-color: rgb(95, 145, 93);
+    padding: 20px;
+    border-radius: 20pc;
+    text-align: center;
+
+}
+h3{
+    text-align: justify;
+    padding: 20px;
+    background-color: rgb(145, 130, 111);
+    border: none;
+    border-radius: 20pc;
+    text-transform: uppercase;
+    font-weight: lighter;
+    
+
+}
+h1{
+    background: white;
+    border-radius: 20pc;
+    text-decoration-style: double;
+    text-shadow: 20cap;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: overline;
+    text-overflow: clip;
+    text-decoration-color: blue ;
+    padding: 20px;
+    color: black;
+}
+a{
+    background: white;
+    padding: 10px;
+    border-radius: 30px;
+    border: 5px solid rgb(31, 117, 84);
+    
+}
+p{
+    text-align: justify;
+    color: black;
+    text-transform: capitalize;
+    font-size: xx-large;
+}
+footer{
+    padding: 20px;
+    text-align: justify;
+    background: whitesmoke;
+    border: 2px solid magenta;
+    border-radius: 70px;
+    font-size: smaller;
+
+}

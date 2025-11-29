@@ -1,0 +1,51 @@
+body {
+    padding: 20px;
+    text-align: justify;
+    border: 1px solid rgb(100, 214, 115);
+    border-radius: 10px;
+    background-color: rgb(183, 126, 236);
+
+}
+
+div {
+    background: white;
+    padding: 20PX;
+    border-radius: 20PX;
+    text-align: center;
+
+}
+loding anmetion{
+    background-color: black;
+    
+}
+button {
+    background: green;
+    border: 2PX solid rgb(5, 29, 139);
+    gap: 1px;
+    border-radius: 20pC;
+    font-size: large;
+    padding: 2px;
+}
+
+header {
+    text-align: left;
+    padding: 10px;
+    border: 2px solid rebeccapurple;
+    font-size: xx-large;
+    text-transform: uppercase;
+    background: rgb(165, 165, 76);
+    text-align: justify;
+    border-radius: 20pc;
+    
+
+}
+
+footer {
+    background: black;
+    color: white;
+    border-radius: 20px;
+    border: 2px solid green;
+    font-size: medium;
+    padding: 10px;
+
+}

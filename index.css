@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(175, 149, 199);
+    border-radius: 20px;
+    border: 8px solid green;
+    margin: 10px;
+    font-size: larger;
+    cursor: pointer;
+    display: block;
+    text-align: center;
+    padding: 20px;
+
+
+}
+
+section {
+    border-radius: 20px;
+    align-items: center;
+    font-size: larger;
+    border: 2px solid white;
+    text-align: center;
+    background: rgb(200, 209, 181);
+}
+
+form {
+    background: burlywood;
+    border-radius: 20px;
+    border: 8px solid rgb(26, 4, 105);
+    align-items: center;
+    text-align: justify;
+    padding: 20px;
+    display: grid;
+    font-size: larger;
+    cursor: pointer;
+
+
+
+}
+
+label {
+    background: rgb(216, 231, 222);
+    border-radius: 20px;
+    border: 1px solid rgb(26, 4, 105);
+    text-align: end;
+    padding: 20px;
+    display: grid;
+    font-size: larger;
+    cursor: pointer;
+
+
+
+}
+
+input {
+    background: rgb(169, 163, 224);
+    border-radius: 20px;
+    border: 1px solid rgb(26, 4, 105);
+    text-align: left;
+    font-size: larger;
+    cursor: pointer;
+    color: black;
+
+
+}
+
+button {
+
+    background: rgb(0, 12, 7);
+    border-radius: 20px;
+    border: 1px solid rgb(26, 4, 105);
+    text-align: left;
+    font-size: xx-large;
+    cursor: pointer;
+    color: rgb(235, 229, 234);
+    text-align: center;
+    padding: 20px;
+
+
+
+}
+
+h1 {
+    border-radius: 20px;
+    text-align: left;
+    font-size: xx-large;
+    cursor: pointer;
+    color: rgb(12, 12, 12);
+    text-align: center;
+    padding: 20px;
+
+}
+
+header {
+
+    background: rgb(183, 182, 250);
+    border-radius: 20px;
+    border: 1px solid rgb(26, 4, 105);
+    text-align: left;
+    font-size: xx-large;
+    cursor: pointer;
+    color: rgb(12, 12, 12);
+    text-align: center;
+    padding: 20px;
+
+
+
+}
